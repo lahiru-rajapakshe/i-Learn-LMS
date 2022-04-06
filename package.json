@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Lahiru Rajapakshe",
+  "license": "MIT",
+  "dependencies": {
+    "admin-lte": "^3.2.0"
+  }
 }
