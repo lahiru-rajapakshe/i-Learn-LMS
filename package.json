@@ -11,5 +11,13 @@
   "license": "MIT",
   "dependencies": {
     "admin-lte": "^3.2.0"
+  },
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.4.1"
   }
 }
