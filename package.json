@@ -1,11 +1,9 @@
 {
   "name": "front-end",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "LMS front end",
+
+
   "keywords": [],
   "author": "Lahiru Rajapakshe",
   "license": "MIT",
